@@ -1,1 +1,1 @@
-simple database project
+simple database projects
